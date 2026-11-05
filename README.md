@@ -1,38 +1,63 @@
 
-# Python Practice Assignment
+# Python Practice Assignment – 2
 
-## Django Batch-14 Module-1
+**Django Batch-14 | Module-1**
 
-This repository contains two Python practice problems.
+## Project Overview
 
-### Problem 1: Personal Information & Simple Calculator
-- Takes user's name and age.
-- Takes two numbers.
-- Performs addition, subtraction, multiplication and division.
-- Displays results using f-strings.
+This repository contains two Python practice assignments developed to demonstrate fundamental Python programming concepts.
 
-### Problem 2: Student Grade Calculator
-- Takes student's name.
-- Takes marks for three subjects.
-- Calculates average marks.
-- Determines final grade using conditional statements.
-- Validates marks between 0 and 100.
+### Programs Included
+
+1. **Personal Calculator (`personal_calculator.py`)**
+   - Takes personal information as user input.
+   - Performs basic arithmetic operations.
+   - Displays calculation results.
+
+2. **Grade Calculator (`grade_calculator.py`)**
+   - Takes student name and marks in three subjects.
+   - Calculates average marks.
+   - Validates marks.
+   - Determines the final grade using conditional statements.
 
 ## Technologies Used
+
 - Python
-- Conditional Statements
-- User Input
+- Conditional Statements (if, elif, else)
+- User Input (`input()`)
 - Arithmetic Operators
+- Variables and Data Types
 - F-Strings
+- Type Conversion (`float()`)
 
 ## Repository Structure
-```
-python-practice-assignment/
+
+```text
+python-practice-assignment-2/
 │
 ├── personal_calculator.py
 ├── grade_calculator.py
 └── README.md
 ```
 
+## How to Run
+
+1. Clone or download this repository.
+2. Open the project folder in VS Code.
+3. Run either Python file:
+
+```bash
+python3 personal_calculator.py
+```
+
+```bash
+python3 grade_calculator.py
+```
+
 ## Author
-Abu Kaiser Muhammad Hashem
+
+**Abu Kaiser Muhammad Hashem**
+ 
+
+
+
