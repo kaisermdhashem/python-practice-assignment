@@ -1,7 +1,7 @@
 
 # Python Practice Assignment 
 
-**Django Batch-14 | Module-1**
+**Batch-14 | Module-1**
 
 ## Project Overview
 
