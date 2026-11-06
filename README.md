@@ -56,7 +56,7 @@ python3 grade_calculator.py
 
 ## Author
 
-**Abu Kaiser Muhammad Hashem**
+**Abu Kaiser Mohammad Hashem**
  
 
 
