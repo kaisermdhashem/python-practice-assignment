@@ -1,5 +1,5 @@
 
-# Python Practice Assignment – 2
+# Python Practice Assignment 
 
 **Django Batch-14 | Module-1**
 
@@ -33,7 +33,7 @@ This repository contains two Python practice assignments developed to demonstrat
 ## Repository Structure
 
 ```text
-python-practice-assignment-2/
+python-practice-assignment/
 │
 ├── personal_calculator.py
 ├── grade_calculator.py
